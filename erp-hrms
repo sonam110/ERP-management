@@ -1,0 +1,82 @@
+HRM System
+superadmin@example.com
+1234
+
+
+
+
+1.all modules visible for company-
+SuperADmin- At the time of company creation assigned module---done
+
+2.Employee ->Assigne Role
+
+
+rakesh@nrt.co.in- Employee
+123456
+
+
+
+Company: ashok@nrt.co.in
+qaz121wsx
+
+Employee: anil@mail.com/qaz121wsx
+
+
+3: User Mangement Section -> Role edit option/Reverse to employee
+
+
+Master-
+Assets- name
+Unique no
+Price
+avail quantity
+added date
+
+Create New Assets
+
+
+employee
+asset master dropdown-
+laptop- quantity-6
+
+
+append -- assets
+
+
+
+Perfomance setup-
+
+
+
+
+Create New Goal Tracking
+-
+
+Employee dropdown
+
+Milestone
+append-------------------
+
+task-1  ----  complate %-----  complete ratio 
+task-2  --------- complate %- complete ratio 
+task-3  ---------cmplate %- complete ratio 
+task-4  ---------  complete ratio 
+
+
+complete Radio 100%
+
+Employee Performance -------- Report
+
+
+Mark Attandance
+Clock In----- at the time of login
+
+ip-address---location get
+
+
+
+Create New Training
+Trainer Internal---------employee list
+External-  ---trainer list
+
+chose Employee - mutiple option
